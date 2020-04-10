@@ -10,11 +10,11 @@
   "description": "__MSG_extDescription__",
   "developer": {
     "name": "Lennon Hill",
-    "url": "https://github.com/lennonhill/cookies-txt"
+    "url": "https://github.com/doronbehar/cookies-txt/tree/myMaster"
   },
   "applications": {
     "gecko": {
-      "strict_min_version": "52.0"
+      "strict_min_version": "55.0"
     }
   },
 
